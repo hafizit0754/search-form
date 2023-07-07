@@ -1,0 +1,8 @@
+.pro{
+    width: 100%;
+    /* -ms-progress-appearance: ring; */
+}
+.center{
+    margin-left: auto;
+    margin-right: auto;
+}
